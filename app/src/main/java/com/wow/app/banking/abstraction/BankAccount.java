@@ -1,7 +1,8 @@
 package com.wow.app.banking.abstraction;
 
 
-public class BankAccount {
+// This class won't instantiate
+public abstract class BankAccount {
 
     private String accountTitle = "";
     private double accountBalance = 0;
