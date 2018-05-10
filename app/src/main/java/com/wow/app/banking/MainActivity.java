@@ -5,8 +5,8 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 import com.wow.app.banking.abstraction.BankAccount;
-import com.wow.app.banking.accounts.CheckingAccount;
-import com.wow.app.banking.accounts.SavingsAccount;
+import com.wow.app.banking.account.CheckingAccount;
+import com.wow.app.banking.account.SavingsAccount;
 
 public class MainActivity extends AppCompatActivity {
 

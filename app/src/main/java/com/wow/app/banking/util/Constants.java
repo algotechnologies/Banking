@@ -1,4 +1,4 @@
-package com.wow.app.banking.utilities;
+package com.wow.app.banking.util;
 
 public class Constants {
 
